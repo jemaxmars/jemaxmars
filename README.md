@@ -5,7 +5,7 @@
 - ✨ I’m currently working on a photosharing site called "se_project_spots"
 - 🌱 I’m currently a student at Tripleten's Software Engineering program.
 - 👯 I’m looking to collaborate on any sort web development project! I am open to any learning experience!
-- 💬 I feel very confident working with HTML & CSS. I really enjoy the front-end aspect of things as I get to show off my creative side!
+- 💬 I feel very confident working with HTML & CSS. I really enjoy the front-end aspect of things because I get to show off my creative side!
 - 🤔 I just "scratched the surface" with javaScript, so I am a novice! I am eager to learn more about jS. Any help/suggestions are welcomed! 
 - 💌 I can be reached on Discord @jemaxmars!
 - 😄 Pronouns: She/Her
