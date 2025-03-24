@@ -3,7 +3,7 @@
 - 🎀 My name is Jessi, but everyone calls me Jess.
 - ⚓ I am from the Northeastern part of the United States.
 - ✨ I’m currently working on a photosharing site called "se_project_spots"
-- 🌱 I’m currently a student at Tripleten's Software Engineering program.
+- 🌱 I’m currently a student at Tripleten's Software Engineering program. I am studying to become a Full-stack Engineer!
 - 👯 I’m looking to collaborate on any sort web development project! I am open to any learning experience!
 - 👩‍💻 I am proficent in HTML, Cascading Style Sheets (CSS), CSS Flexbox, CSS Grid Layout, Block Element Modifier (BEM), Microsoft Visual Studio Code, Git, GitHub, Figma, Debugging, Responsive Web Design & DEV Tools.
 - 💜 I feel very confident working with HTML & CSS. I really enjoy the front-end aspect of things because I get to show off my creative side!
