@@ -10,6 +10,6 @@
 - 🤔 I just "scratched the surface" with javaScript, so I am a novice! I am eager to learn more about jS. Any help/suggestions are welcomed. 
 - 💌 I can be reached via email @jemaxmars@icloud.com or on Discord @jemaxmars
 - 🫶 Pronouns: She/Her
-- 💫 Fun fact: I am very passionate about Software Engineering! It's been a lifelong dream of mine. I am grateful that I have the opportunity to pursue it. Prior to this, I was a stay-at-home mom and I worked in healthcare. I enjoy spending time with my family, working out, cooking, making art, and just recently I started playing chess again!
+- 💫 Fun fact: I am very passionate about Software Engineering! It's been a lifelong dream of mine. I am grateful that I have the opportunity to pursue it. Prior to this, I was a stay-at-home mom and I worked in healthcare. I enjoy spending time with my family, working out, cooking, making art, and I just recently started playing chess again!
   # ✨ ✝ 👨‍👩‍👧‍👦 👩‍💻🏋️‍♀️🖌🍭👩‍🍳♟✨
 
