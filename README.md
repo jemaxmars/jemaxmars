@@ -1,7 +1,7 @@
 ## 🎇 HEY EVERYONE 🎇
 
 - 🎀 My name is Jessi, but everyone calls me Jess.
-- 🌱 In fall 2024 I enrolled at Tripleten's Software Engineering bootcamp. I am studying to become a Full Stack Developer, with a tenative completion date in August 2025.
+- 🌱 In fall 2024 I enrolled at Tripleten's Software Engineering bootcamp. I am studying to become a Full Stack Developer, with a tenative completion date in Oct 2025.
 - 👩‍💻 I am proficent in HTML, CSS, CSS Flexbox, CSS Grid Layout, JavaScript, DOM, Media Queries, Block Element Modifier (BEM), Microsoft Visual Studio Code, Git, GitHub, Figma, Debugging, Responsive Web Design & DEV Tools.
 - ✨ I’m currently working on a photosharing site called "se_project_spots"
 - 🫶 Pronouns: She/Her
