@@ -1,10 +1,10 @@
-## Jessi Marshall | Full-Stack Software Developer
+### 🩶 Jessi Marshall | Full-Stack Software Developer 👩🏻‍💻
 
-**Email:** jessimarie.codes@gmail.com 
-**Discord:** @jemaxmars  
-**Website:** [www.codedbyjessi.com](https://www.codedbyjessi.com) 
-**Tech Blog:** [medium.com/@coded_by_jessi](https://medium.com/@coded_by_jessi)  
-**LinkedIn:** [linkedin.com/in/jemaxmars](https://www.linkedin.com/in/jemaxmars/)  
+🌐 **Portfolio Website:** [www.codedbyjessi.com](https://www.codedbyjessi.com)  
+💻 **Tech Blog:** [medium.com/@coded_by_jessi](https://medium.com/@coded_by_jessi)  
+🔗 **LinkedIn:** [linkedin.com/in/jemaxmars](https://www.linkedin.com/in/jemaxmars/)  
+💌 **Email:** jessimarie.codes@gmail.com  
+✨ **Discord:** @jemaxmars  
 **Pronouns:** She/Her
 
 ## 🚀 About Me
@@ -101,8 +101,8 @@ Live demo: [jemaxmars.github.io/campus-orientation](https://jemaxmars.github.io/
 
 I’m passionate about real-world impact and teamwork, and currently open to collaborative web development projects. If you’re searching for a dedicated, fast-learning developer to join your team, let’s connect.
 
-## 👋 A Little More About Me
+## 🎀 A Little More About Me
 
-Beyond coding, I love spending time with my family, working out, cooking, creating art, and playing chess. My journey is defined by lifelong learning and making a difference, one project at a time.
+Outside of coding, I enjoy time with my family, staying active at the gym, experimenting in the kitchen, creating art, playing chess, and diving into history documentaries or anime. My path is shaped by a commitment to lifelong learning and a drive to make an impact, one project at a time.
 
-Let’s build something outstanding together!
+Let’s build something outstanding together! 🩶
