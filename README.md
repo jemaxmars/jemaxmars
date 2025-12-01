@@ -2,7 +2,9 @@
 
 **Email:** jessimarie.codes@gmail.com  
 **Discord:** @jemaxmars  
-**Website:** [www.codedbyjessi.com](https://www.codedbyjessi.com)  
+**Website:** [www.codedbyjessi.com](https://www.codedbyjessi.com) 
+**Tech Blog:** [medium.com/@coded_by_jessi](https://medium.com/@coded_by_jessi)  
+**LinkedIn:** [linkedin.com/in/jemaxmars](https://www.linkedin.com/in/jemaxmars/)  
 **Pronouns:** She/Her
 
 ## 🚀 About Me
