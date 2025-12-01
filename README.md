@@ -1,22 +1,17 @@
-# Jessi Marshall | Full-Stack Software Developer
+## Jessi Marshall | Full-Stack Software Developer
 
 **Email:** jessimarie.codes@gmail.com 
-
 **Discord:** @jemaxmars  
-
 **Website:** [www.codedbyjessi.com](https://www.codedbyjessi.com) 
-
 **Tech Blog:** [medium.com/@coded_by_jessi](https://medium.com/@coded_by_jessi)  
-
 **LinkedIn:** [linkedin.com/in/jemaxmars](https://www.linkedin.com/in/jemaxmars/)  
-
 **Pronouns:** She/Her
 
 ## 🚀 About Me
 
 I'm Jessi, a passionate and versatile Full-Stack Developer. In November 2025, I successfully completed TripleTen’s comprehensive Software Engineering Bootcamp, earning my Full‑Stack Web Development (MERN) Certificate from TripleTen. My unique path from healthcare to tech, combined with the dedication honed as a stay-at-home mom, fuels my drive to build meaningful, user-centered web applications. I thrive in fast-paced learning environments and am continually motivated by solving real-world problems through technology.
 
-## 🎓 Bootcamp Curriculum Mastery
+## 🎓 Comprehensive Mastery of the Full-Stack Curriculum
 
 ### Frontend Development
 Semantic HTML5 for accessible, robust web apps  
